@@ -21,7 +21,7 @@ dependencies:
 
 Here is a basic example of how to use the package:
 ```dart
-import 'package:[name_of_your_package]/[name_of_your_package].dart';
+import 'package:cep_finder/cep_finder.dart';
 
 void main() async {
   final finder = CepFinder();

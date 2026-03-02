@@ -1,7 +1,8 @@
 name: cep_finder
 description: A simple and lightweight API wrapper for Brazilian CEPs.
 version: 1.0.0
-repository: https://github.com/my_org/my_repo
+repository: https://github.com/pedrokGs/cep_finder
+license: MIT
 
 environment:
   sdk: ^3.11.0

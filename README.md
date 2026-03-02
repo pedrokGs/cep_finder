@@ -27,7 +27,7 @@ void main() async {
   final finder = CepFinder();
 
   try {
-    final info = await finder.buscarCep("01001000");
+    final info = await finder.find("01001000");
     print("Address: ${info.logradouro}, ${info.localidade} - ${info.uf}");
     print("DDD: ${info.ddd}");
   } on CepNotFoundException {

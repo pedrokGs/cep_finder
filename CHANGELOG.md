@@ -1,3 +1,3 @@
-## 1.0.0
+## 1.0.1
 
-- Initial version.
+- Added documentation to CepFinder and exceptions
